@@ -1,8 +1,8 @@
 * {
     box-sizing: border-box;
-<<<<<<< HEAD
-    margin: 0 auto;
+    margin: 0;
 }
+<<<<<<< HEAD
 .container-fluid {
     background-color: #9b9fa0;
 }
@@ -41,9 +41,9 @@ img {
 .top-footer {
     margin-top: 95px;
 }
-.container {
+/* .container {
   float: left;
-}
+} */
 
 .white {
     font-family: 'Poppins', sans-serif;
@@ -71,8 +71,7 @@ img {
     color: #dd4b39;
 }
 =======
-    margin: 0;
-}
+
 
 .contact {
     font-family: 'Poppins', sans-serif;
